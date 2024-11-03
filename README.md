@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mohammad Huzaifa! 👋
 
 I'm a Computer Science student specializing in Artificial Intelligence. I'm passionate about exploring the fields of Machine Learning, Natural Language Processing, and Deep Learning. Currently, I'm focused on enhancing my skills in these areas and diving deeper into advanced topics.
 
