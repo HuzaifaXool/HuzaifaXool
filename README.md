@@ -28,11 +28,6 @@ I'm a Computer Science student specializing in Artificial Intelligence. I'm pass
 - LinkedIn : https://www.linkedin.com/in/shaik-mohammad-huzaifa/
 - Email: mohammadhuzaifa342a@gmail.com
 
-## 🤓 Fun Facts
-- I enjoy solving puzzles and challenges related to algorithms.
-- I'm an avid reader of AI-related research papers and articles.
-- I love experimenting with new programming languages and tools!
-
 ##  Motto
 *"Code is like humor. When you have to explain it, it’s bad."*
 
